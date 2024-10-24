@@ -81,3 +81,38 @@ body {
 .cards_picture {
     height: 370px;
 }
+
+.map_section {
+
+    background-color: #006241;
+}
+
+.btn_map {
+    display: block;
+    width: 350px;
+    padding: 10px;
+    border-radius: 40px;
+    border: none;
+    margin-top: 220px;
+    margin-left: 35px;
+
+}
+
+footer {
+    background-color: #006241;
+    padding: 10px;
+}
+
+.brand {
+    width: 100px;
+    margin: 20px 0 20px 0;
+}
+
+.footer_text {
+    margin-top: 40px;
+}
+
+.footer_icons {
+    margin: 20px 15px 0 0;
+    font-size: 20px;
+}
