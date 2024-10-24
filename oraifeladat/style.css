@@ -1,3 +1,38 @@
-.logo{
+.logo {
     width: 60px;
+}
+
+body {
+    color: white;
+}
+
+.banner {
+    border-radius: 20px;
+
+}
+
+.btn {
+    background-color: aliceblue;
+    border-radius: 25px;
+    width: 150px;
+    padding: 10px;
+
+}
+
+.btn:hover {
+    background-color: whitesmoke;
+}
+
+.banner_picture {
+    max-width: 100%;
+    object-fit: fill;
+
+
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #006241;
 }
