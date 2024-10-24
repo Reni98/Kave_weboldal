@@ -36,3 +36,47 @@ body {
     align-items: center;
     background-color: #006241;
 }
+
+.white_card {
+    color: black;
+}
+
+.btn_green {
+    background-color: #006241;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    width: 160px;
+    border-radius: 25px;
+    display: block;
+    text-align: center;
+}
+
+.btn_green:hover {
+    background-color: #62ba9c;
+    color: white;
+}
+
+.green_card {
+    background-color: #006241;
+}
+
+.btn_white {
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    width: 160px;
+    border-radius: 25px;
+    display: block;
+    text-align: center;
+}
+
+.btn_white:hover {
+    background-color: aliceblue;
+    color: black;
+}
+
+.cards_picture {
+    height: 370px;
+}
